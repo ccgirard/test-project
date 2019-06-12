@@ -15,7 +15,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 var ButtonPrimary = function ButtonPrimary(props) {
   return _react.default.createElement(_antd.Button, {
-    type: "primary"
+    type: "danger"
   }, props.text);
 };
 

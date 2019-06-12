@@ -5,7 +5,7 @@ import 'antd/dist/antd.css';
 
 const ButtonPrimary = (props) =>{
     return(
-        <Button type="primary">{props.text}</Button>
+        <Button type="danger">{props.text}</Button>
     )
 }
 

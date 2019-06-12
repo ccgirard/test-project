@@ -35,5 +35,8 @@
     },
     "componentsDefaultDirectory": "components/{name}",
     "packageManager": "npm"
+  },
+  "devDependencies": {
+    "less-loader": "^5.0.0"
   }
 }

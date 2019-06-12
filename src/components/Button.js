@@ -3,9 +3,9 @@ import { Button } from "antd";
 
 import 'antd/dist/antd.css';
 
-const ButtonPrimary = () =>{
+const ButtonPrimary = (props) =>{
     return(
-        <Button type="primary">Button</Button>
+        <Button type="primary">{props.text}</Button>
     )
 }
 

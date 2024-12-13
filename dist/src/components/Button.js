@@ -1,5 +1,7 @@
 "use strict";
 
+// here is a comment added to button js to test comment functionality
+
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
